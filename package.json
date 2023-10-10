@@ -2,6 +2,7 @@
   "name": "js_drill",
   "version": "1.0.0",
   "description": "JS Drill: CARS 2",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
